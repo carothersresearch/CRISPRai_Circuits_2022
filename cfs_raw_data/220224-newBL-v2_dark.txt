@@ -1,0 +1,910 @@
+
+
+Software Version	2.07.17
+
+
+
+Experiment File Path:	C:\Users\Public\Documents\Experiments\DA\220224-newBL\Experiment8.xpt
+Protocol File Path:	C:\Users\Public\Documents\Protocols\txtl_kinetics2.prt
+
+
+
+Plate Number	Plate 3
+Date	2/25/2022
+Time	1:02:09 PM
+Reader Type:	Synergy HTX
+Reader Serial Number:	Unknown
+Reading Type	Reader
+
+Procedure Details
+
+Plate Type	Costar 96 white opaque (Use plate lid)
+Well Selection	Runtime
+Eject plate on completion	
+Set Temperature	Setpoint 29°C, Gradient 0 °C
+	Preheat before moving to next step
+Start Kinetic	Runtime 36:00:00 (HH:MM:SS), Interval 0:10:00, 217 Reads
+    Read	RFP-Ex
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 540/35,  Emission: 600/40
+	    Optics: Bottom,  Gain: 50
+	Light Source: Tungsten,  Extended Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+    Read	RFP-St
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 540/35,  Emission: 600/40
+	    Optics: Bottom,  Gain: 50
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 200 msec,  Measurements/Data Point: 10
+    Read	GFP-St
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 485/20,  Emission: 528/20
+	    Optics: Bottom,  Gain: 50
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+End Kinetic	
+Read	GFP_60
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 485/20,  Emission: 528/20
+	    Optics: Bottom,  Gain: 60
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+Read	GFP_100
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 485/20,  Emission: 528/20
+	    Optics: Bottom,  Gain: 100
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+Read	GFP_40
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 485/20,  Emission: 528/20
+	    Optics: Bottom,  Gain: 100
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+Read	RFP_100
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 540/35,  Emission: 600/40
+	    Optics: Bottom,  Gain: 100
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+Read	RFP_60
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 540/35,  Emission: 600/40
+	    Optics: Bottom,  Gain: 60
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+Read	RFP_40
+	Fluorescence Endpoint
+	Full Plate
+	Filter Set 1
+	    Excitation: 540/35,  Emission: 600/40
+	    Optics: Bottom,  Gain: 40
+	Light Source: Tungsten,  Standard Dynamic Range
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 10
+
+RFP-Ex:540/35,600/40
+
+Time	T° RFP-Ex:540/35,600/40	A1	A2	A3	A4	A5	A6	A7	A8	A9	A10	A11	A12	B1	B2	B3	B4	B5	B6	B7	B8	B9	B10	B11	B12	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	D1	D2	D3	D4	D5	D6	D7	D8	D9	D10	D11	D12	E1	E2	E3	E4	E5	E6	E7	E8	E9	E10	E11	E12	F1	F2	F3	F4	F5	F6	F7	F8	F9	F10	F11	F12	G1	G2	G3	G4	G5	G6	G7	G8	G9	G10	G11	G12	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12
+0:00:00	29.0	180	166	165	169	166	174	182	171	193	161	166	167	172	172	170	179	187	177	184	173	177	171	176	168	180	176	196	169	168	180	176	176	189	192	204	173	184	5428	1326	6409	179	4065	19908	175	2802	294936	365	183	183	5038	1478	6579	185	3643	20068	188	2552	316344	358	184	183	5873	1457	6623	188	3942	19517	198	2559	311400	377	175	199	190	189	196	195	205	198	195	205	211	194	194	211	190	190	188	199	194	198	190	243	178	188	194
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+
+RFP-St:540/35,600/40
+
+Time	T° RFP-St:540/35,600/40	A1	A2	A3	A4	A5	A6	A7	A8	A9	A10	A11	A12	B1	B2	B3	B4	B5	B6	B7	B8	B9	B10	B11	B12	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	D1	D2	D3	D4	D5	D6	D7	D8	D9	D10	D11	D12	E1	E2	E3	E4	E5	E6	E7	E8	E9	E10	E11	E12	F1	F2	F3	F4	F5	F6	F7	F8	F9	F10	F11	F12	G1	G2	G3	G4	G5	G6	G7	G8	G9	G10	G11	G12	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+
+GFP-St:485/20,528/20
+
+Time	T° GFP-St:485/20,528/20	A1	A2	A3	A4	A5	A6	A7	A8	A9	A10	A11	A12	B1	B2	B3	B4	B5	B6	B7	B8	B9	B10	B11	B12	C1	C2	C3	C4	C5	C6	C7	C8	C9	C10	C11	C12	D1	D2	D3	D4	D5	D6	D7	D8	D9	D10	D11	D12	E1	E2	E3	E4	E5	E6	E7	E8	E9	E10	E11	E12	F1	F2	F3	F4	F5	F6	F7	F8	F9	F10	F11	F12	G1	G2	G3	G4	G5	G6	G7	G8	G9	G10	G11	G12	H1	H2	H3	H4	H5	H6	H7	H8	H9	H10	H11	H12
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+0:00:00																																																																																																	
+
+Results
+	1	2	3	4	5	6	7	8	9	10	11	12
+A													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+B													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+C													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+D													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+E													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+F													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+G													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+H													GFP_60:485/20,528/20
+													GFP_100:485/20,528/20
+													GFP_40:485/20,528/20
+													RFP_100:540/35,600/40
+													RFP_60:540/35,600/40
+													RFP_40:540/35,600/40
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-Ex:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [RFP-St:540/35,600/40]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	R-Squared [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	t at Max V [GFP-St:485/20,528/20]
+	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	?????	Lagtime [GFP-St:485/20,528/20]
+
